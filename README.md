@@ -3,12 +3,12 @@
 My name is Thibaut and I’m a PhD student at **Géoazur**. <br>
 I'm currently working on the determination of **focal mechanisms** and **moment magnitudes (Mw)** for earthquakes in mainland France and bordering regions. 
 
-Here, you can explore some of my other projects related to my studies : <br>
+Here, you can explore some of my projects related to my studies : <br>
 🔹 **Sismoavalanche** <br>
 🔹 **Earthquakes Classifier** <br>
 🔹 **SeisDown** <br>
 
-And side projects just for fun : <br>
+And my side projects just for fun : <br>
 🎮 **5B1C** <br>
 ⚔️ **Fire Emblem** <br>
 
